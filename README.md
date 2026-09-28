@@ -31,7 +31,7 @@ A compact, decoder-only Transformer language model trained from scratch on Twi (
 # Transformer
 
 <p align="center">
-  <img src="Screenshot from 2026-09-28 13-21-20.png" width="700">
+  <img src="./models/Screenshot from 2026-09-28 13-21-20.png" width="700">
 </p>
 
 A decoder-only Transformer for Akan Twi.
