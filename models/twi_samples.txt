@@ -1,0 +1,48 @@
+
+===== samples after epoch 5 (val loss 4.1683) =====
+[Maakye] Maakye na ɔtɔn no ko a ne din de Oguma, na ɔka ne ho bɔɔ ne din wɔ Ghana kasafidie so.
+[Ghana yɛ] Ghana yɛ nea na ɛwɔ hɔ.
+[Me din de] Me din de EVOOO a ɛwɔ AEEKOPEMI, a na ɛyɛ aduro a wɔde di dwuma no de ma obi a ɔwɔ yareɛ no.
+[Ɛnnɛ] Ɛnnɛ yi ara ne nnipa a wɔwɔ Ghana.
+[Nyame] Nyamesom mu nsɛm.
+[<BOS>] Wɔ afe 2004 mu no, ɔne R.
+
+===== samples after epoch 10 (val loss 3.9731) =====
+[Maakye] Maakye yɛ Ghana amanyɔni na na ɔyɛ Mmarahyɛbadwani ma Agona West abatoɔ mpɛsoaso wɔ Asante mantam wɔ Ghana.
+[Ghana yɛ] Ghana yɛ ɔman mmɔnten so atrae a ɛwɔ Ghana Apuei Fam mantam mu wɔ Ghana.
+[Me din de] Me din de Homeose:
+[Ɛnnɛ] Ɛnnɛ ɔyɛ Ɔmanpanyin Abadiakyiri wɔ John Kufuor nniso ase.
+[Nyame] Nyamekye yɛ Kristoni.
+[<BOS>] Ɔwoo Nkrumah wɔ afe apem ahankron ne aduokron nsia (1996) mu.
+
+===== samples after epoch 15 (val loss 3.8803) =====
+[Maakye] Maakye yɛ Kristoni.
+[Ghana yɛ] Ghana yɛ ɔman a ɛso sen biara wɔ wiase nyinaa.
+[Me din de] Me din de Renneller Talla (hillboard).
+[Ɛnnɛ] Ɛnnɛ yi, wɔ afe apem ahankron ne aduokron mmienu (1992) mu no, nnipa bebree a na ɛwɔ hɔ saa berɛ no na ɛyɛ wɔn dea.
+[Nyame] Nyamesom yɛ Kristoni.
+[<BOS>] Wɔ afe 2000 mu no, wɔpaw no sɛ Mmarahyɛ Bagua no muni maa Yendi mantam a ɛwɔ Ashanti Mantam mu wɔ Ghana.
+
+===== samples after epoch 20 (val loss 3.8009) =====
+[Maakye] Maakye yɛ Kristoni.
+[Ghana yɛ] Ghana yɛ ɔman a akyɛ sen biara wɔ wiase no mu biako.
+[Me din de] Me din de Al-Azhar, din no yɛ nea wɔde ma nnipa a wɔadi dɛm sen biara wɔ wɔn a wɔkyerɛkyerɛ mu, na ɛnyɛ nea ɛto so abien a na ɛyɛ ɔman no mu mufo.
+[Ɛnnɛ] Ɛnnɛ yi deɛ ɛdi kan no yɛ deɛ ɛtɔ so mmienu a wɔde kyerɛ sɛdeɛ ɛbɛyɛ a wobɛnya bi sɛ wobɛhunu saa tebea no.
+[Nyame] Nyamesom adwuma.
+[<BOS>] Wɔ afe 2016 mu no, Amanaman Nkabom Nhyiam no hyɛɛ mmara a edi kan a wɔde kɔmaa Mmarahyɛ Bagua no ne amanaman ntam akansi ahorow no ase.
+
+===== samples after epoch 25 (val loss 3.7503) =====
+[Maakye] Maakye Ofosu-Adjei (wɔwoo no Ɔpɛpɔn 28, 1953) yɛ Ghana ɔmanyɔni ne mmarahyɛbadwani ma Nkoranza South abatoɔ mpɛsoa so wɔ Bono Mantam mu wɔ Ghana.
+[Ghana yɛ] Ghana yɛ ɔman a ɛtɔ so nnan no mmarahyɛ badwa a ɛtɔ so nsia wɔ Ghana adehyeman a ɛtɔ so nnan no mu a ɔgyina Sawla/Kalba Mansin ananmu wɔ Atifi Mantam mu wɔ Ɔsono kokroko ammanyɔkuo (New Patriotic Party-NPP) tekiti so.
+[Me din de] Me din de Alliance Azantine, a na ɔyɛ anamsini de ma NRP amanyɔkuo no wɔ mfe mpem mmienu ne nan (2004).
+[Ɛnnɛ] Ɛnnɛ, ɛyɛ donna a ɛwɔ soro no na wɔfrɛ no herpes a ɛyɛ bruudos.
+[Nyame] Nyamekye yɛ Ghana amanyɔni.
+[<BOS>] saa ɛberɛ no, na israel akodɔm no abɔ huboa.
+
+===== samples after epoch 30 (val loss 3.7295) =====
+[Maakye] Maakye a ɔwɔ kyineeɛ amanyɔkuo National Democratic Congress mu nso nyaa mma mpem aduanan mmienu, ɔha ne aduowɔtwe num (47,165) a ɛyɛ ɔhamu nkyekyɛmu aduasa akyirepɔ aduonu mmienu (26.2%).
+[Ghana yɛ] Ghana yɛ ɔman a ɛtɔ so nnan no mmrahyɛbagua a ɛtɔ so nnan no muni.
+[Me din de] Me din de Ethine Nelson Yankson, a wonim no yiye sɛ ɛyɛ nea wonim no yiye sen biara wɔ wiase nyinaa.
+[Ɛnnɛ] Ɛnnɛ yi, Abɛɛfo sukuufo a wɔte saa sukuu yi mu no mu pii kɔɔ so kɔɔ soro kɔɔ sukuu a ɛto so abiɛsa wɔ Cape Coast.
+[Nyame] Nyamesom wɔ Nyamesom mu.
+[<BOS>] Wɔde asɛmfua "peaplanet" di dwuma wɔ "partivism" mu de kyerɛ "topic" mu sɛ "prupt".
